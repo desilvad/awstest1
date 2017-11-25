@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "cdllbosdbc001s3",
+  "port": "22",
+  "target": "/home/desilvad/dimapp1/awstest1",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "desilvad",
+  "keyfile": "C:\\Users\\desilvad\\.ssh\\id_rsa",
+  "watch": [],
+  "transport": "scp"
+}
